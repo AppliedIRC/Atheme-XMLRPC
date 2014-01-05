@@ -1,0 +1,12 @@
+{
+    "name": "appliedirc/atheme-xmlrpc",
+    "description": "XMLRPC communication with an Atheme IRC Services server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joshua Gigg",
+            "email": "giggsey@appliedirc.com",
+            "homepage": "http://giggsey.com/"
+        }
+    ]
+}
